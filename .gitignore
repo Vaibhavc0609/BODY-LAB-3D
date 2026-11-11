@@ -20,6 +20,8 @@ dist-ssr
 scratch/
 *.png
 *.jpg
+!screenshots/
+!screenshots/*.png
 
 # Editor / OS directories and files
 .vscode/*

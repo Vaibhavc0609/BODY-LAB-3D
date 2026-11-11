@@ -1,8 +1,20 @@
-# Human Body Atlas — 3D Biological Simulation
+# Body Lab 3D — Human Body Atlas
 
-**Live Demo:** [https://body-lab-3d.netlify.app](https://body-lab-3d.netlify.app)
+**Live Interactive Demo:** [https://body-lab-3d.netlify.app](https://body-lab-3d.netlify.app)
+
+![Body Lab 3D Hero Overview](screenshots/01-hero-overview.png)
 
 Interactive WebGL human anatomy explorer built with **React**, **Three.js**, **React Three Fiber**, and **Drei**. Features a criss-cross aperture opening sequence, smooth scroll-driven 3D camera & layer choreography, a full dissection workbench, CT/MRI cross-section slicing, and sex-dimorphic Male & Female Organ Libraries.
+
+## Showcase Screenshots
+
+| Whole Body Dissection (Male) | Female Morphology (`889` Structures) |
+| :---: | :---: |
+| ![Male Workbench](screenshots/02-workbench-male-front.png) | ![Female Morphology](screenshots/03-workbench-female-morphology.png) |
+
+| Cohesive Small Intestine (6-Part Model) | Interactive Dismantle (`Rows & Columns`) |
+| :---: | :---: |
+| ![Small Intestine Isolated](screenshots/04-small-intestine-isolated.png) | ![Small Intestine Dismantled](screenshots/05-small-intestine-dismantled.png) |
 
 ## Features
 
